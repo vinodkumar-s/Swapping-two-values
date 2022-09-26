@@ -29,7 +29,7 @@ n1=temp
 print("Swapped values are:",n1,n2)
 ```
 ## OUTPUT:
-![OUTPUT](/outputswap1.png)
+![OUTPUT](/SWAPPING%20TWO%20VALUES.png)
 
 
 
